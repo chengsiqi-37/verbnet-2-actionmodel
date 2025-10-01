@@ -1,0 +1,208 @@
+{
+    "value": "Participants",
+    "children": [
+        {
+            "value": "Property",
+            "children": [
+                {
+                    "value": "Attribute",
+                    "children": []
+                },
+                {
+                    "value": "Manner",
+                    "children": []
+                },
+                {
+                    "value": "Value",
+                    "children": [
+                        {
+                            "value": "Extent",
+                            "children": []
+                        },
+                        {
+                            "value": "Duration",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value":  "Place",
+            "children": [
+                {
+                    "value": "Locus",
+                    "children": [
+                        {
+                            "value": "Location",
+                            "children": [
+                                {
+                                    "value": "Axis",
+                                    "children": []
+                                },
+                                {
+                                    "value": "Initial_Location",
+                                    "children": []
+                                },
+                                {
+                                    "value": "Destination",
+                                    "children": [
+                                        {
+                                            "value": "Recipient",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "Source",
+                    "children": [
+                        {
+                            "value": "Initial_Location",
+                            "children": []
+                        },
+                        {
+                            "value": "Material",
+                            "children": []
+                        },
+                        {
+                            "value": "Initial_State",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "value": "Goal",
+                    "children": [
+                        {
+                            "value": "Destination",
+                            "children": []
+                        },
+                        {
+                            "value": "Result",
+                            "children": [
+                                {
+                                    "value": "Product",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "Source",
+                    "children": [
+                        {
+                            "value": "Initial_Location",
+                            "children": []
+                        },
+                        {
+                            "value": "Material",
+                            "children": []
+                        },
+                        {
+                            "value": "Initial_State",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "value": "Trajectory",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "value": "Undergoer",
+            "children": [
+                {
+                    "value": "Pivot",
+                    "children": []
+                },
+                {
+                    "value": "Instrument",
+                    "children": []
+                },
+                {
+                    "value": "Patient",
+                    "children": [
+                        {
+                            "value": "Co-Patient",
+                            "children": []
+                        },
+                        {
+                            "value": "Experiencer",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "value": "Theme",
+                    "children": [
+                        {
+                            "value": "Co-Theme",
+                            "children": []
+                        },
+                        {
+                            "value": "Topic",
+                            "children": []
+                        },
+                        {
+                            "value": "Asset",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "value": "Beneficiary",
+                    "children": [
+                        {
+                            "value": "Maleficiary",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "value": "Eventuality",
+                    "children": [
+                        {
+                            "value": "Subeventuality",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": "Affector",
+            "children": [
+                {
+                    "value": "Causer",
+                    "children": [
+                        {
+                            "value": "Agent",
+                            "children": 
+                            [
+                                {
+                                    "value": "Co-Agent",
+                                    "children": []
+                                }
+                            ]
+                        }                        
+                    ]
+                },
+                {
+                    "value": "Stimulus",
+                    "children": []
+                },
+                {
+                    "value": "Precondition",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
